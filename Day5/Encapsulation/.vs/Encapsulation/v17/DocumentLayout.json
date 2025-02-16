@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\wipro\\day 4\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|E:\\wipro\\day 4\\Encapsulation\\encapsulation\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|e:\\wipro\\day 4\\encapsulation\\encapsulation\\polyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\polyprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|e:\\wipro\\day 4\\encapsulation\\encapsulation\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|E:\\wipro\\day 4\\Encapsulation\\encapsulation\\ibankmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\ibankmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|E:\\wipro\\day 4\\Encapsulation\\encapsulation\\sbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\sbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|E:\\wipro\\day 4\\Encapsulation\\encapsulation\\abstractdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\abstractdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|E:\\wipro\\day 4\\Encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|E:\\wipro\\day 4\\Encapsulation\\encapsulation\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|E:\\wipro\\day 4\\Encapsulation\\encapsulation\\axis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9B74AB-8A6B-436D-AD6E-4EC5D5F3FEEA}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\axis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperatorOverloading.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\OperatorOverloading.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\OperatorOverloading.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\OperatorOverloading.cs",
+              "RelativeToolTip": "Encapsulation\\OperatorOverloading.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T05:00:23.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolyProgram.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\PolyProgram.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\PolyProgram.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\PolyProgram.cs",
+              "RelativeToolTip": "Encapsulation\\PolyProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:05:03.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Inheritance.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Inheritance.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Inheritance.cs",
+              "RelativeToolTip": "Encapsulation\\Inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:27:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbstractDemo.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\AbstractDemo.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\AbstractDemo.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\AbstractDemo.cs",
+              "RelativeToolTip": "Encapsulation\\AbstractDemo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:11:57.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sbi.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Sbi.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Sbi.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Sbi.cs",
+              "RelativeToolTip": "Encapsulation\\Sbi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:11:08.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Axis.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Axis.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Axis.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Axis.cs",
+              "RelativeToolTip": "Encapsulation\\Axis.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:10:35.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBankMain.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\IBankMain.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\IBankMain.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\IBankMain.cs",
+              "RelativeToolTip": "Encapsulation\\IBankMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:10:04.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Voting.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Voting.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Voting.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Voting.cs",
+              "RelativeToolTip": "Encapsulation\\Voting.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:11:33.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "E:\\wipro\\day 4\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T03:58:34.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

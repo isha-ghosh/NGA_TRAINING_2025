@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\wipro\\Day13\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\12_iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\12_iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\04_mobilefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\04_mobilefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\11_decoratormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\11_decoratormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\09_indiansocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\09_indiansocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\10_plaintext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\10_plaintext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\13_observermaincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\13_observermaincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\08_builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\08_builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\07_buidermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\07_buidermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\01_program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\01_program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\06_laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\06_laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\05_mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\05_mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\03_imobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\03_imobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|e:\\wipro\\day13\\designpattern\\designpattern\\02_mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD3703E-A23E-4B3E-A1E9-721B0475087C}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\02_mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "12_IObserver.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\12_IObserver.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\12_IObserver.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\12_IObserver.cs",
+              "RelativeToolTip": "DesignPattern\\12_IObserver.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:18:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "13_ObserverMaincs.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\13_ObserverMaincs.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\13_ObserverMaincs.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\13_ObserverMaincs.cs",
+              "RelativeToolTip": "DesignPattern\\13_ObserverMaincs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:18:09.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "11_DecoratorMain.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\11_DecoratorMain.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\11_DecoratorMain.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\11_DecoratorMain.cs",
+              "RelativeToolTip": "DesignPattern\\11_DecoratorMain.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:56:42.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "10_PlainText.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\10_PlainText.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\10_PlainText.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\10_PlainText.cs",
+              "RelativeToolTip": "DesignPattern\\10_PlainText.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:56:01.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "09_IndianSocket.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\09_IndianSocket.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\09_IndianSocket.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\09_IndianSocket.cs",
+              "RelativeToolTip": "DesignPattern\\09_IndianSocket.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:49:36.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "07_BuiderMain.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\07_BuiderMain.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\07_BuiderMain.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\07_BuiderMain.cs",
+              "RelativeToolTip": "DesignPattern\\07_BuiderMain.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:00:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "08_Builder.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\08_Builder.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\08_Builder.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\08_Builder.cs",
+              "RelativeToolTip": "DesignPattern\\08_Builder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:52:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "06_Laptop.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\06_Laptop.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\06_Laptop.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\06_Laptop.cs",
+              "RelativeToolTip": "DesignPattern\\06_Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:51:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "05_MainProgram.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\05_MainProgram.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\05_MainProgram.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\05_MainProgram.cs",
+              "RelativeToolTip": "DesignPattern\\05_MainProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:33:35.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "04_MobileFactory.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\04_MobileFactory.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\04_MobileFactory.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\04_MobileFactory.cs",
+              "RelativeToolTip": "DesignPattern\\04_MobileFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:16:13.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "03_IMobile.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\03_IMobile.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\03_IMobile.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\03_IMobile.cs",
+              "RelativeToolTip": "DesignPattern\\03_IMobile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:13:32.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "02_MainClass.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\02_MainClass.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\02_MainClass.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\02_MainClass.cs",
+              "RelativeToolTip": "DesignPattern\\02_MainClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:41:32.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "01_Program.cs",
+              "DocumentMoniker": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\01_Program.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\01_Program.cs",
+              "ToolTip": "E:\\wipro\\Day13\\DesignPattern\\DesignPattern\\01_Program.cs",
+              "RelativeToolTip": "DesignPattern\\01_Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:30:53.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

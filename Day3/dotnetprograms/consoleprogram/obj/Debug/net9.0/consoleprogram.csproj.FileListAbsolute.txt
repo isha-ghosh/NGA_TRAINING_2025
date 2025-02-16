@@ -1,0 +1,14 @@
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\bin\Debug\net9.0\consoleprogram.exe
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\bin\Debug\net9.0\consoleprogram.deps.json
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\bin\Debug\net9.0\consoleprogram.runtimeconfig.json
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\bin\Debug\net9.0\consoleprogram.dll
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\bin\Debug\net9.0\consoleprogram.pdb
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\consoleprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\consoleprogram.AssemblyInfoInputs.cache
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\consoleprogram.AssemblyInfo.cs
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\consoleprogram.csproj.CoreCompileInputs.cache
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\consoleprogram.dll
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\refint\consoleprogram.dll
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\consoleprogram.pdb
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\consoleprogram.genruntimeconfig.cache
+C:\Users\ISHA\Documents\dotnetprograms\consoleprogram\obj\Debug\net9.0\ref\consoleprogram.dll

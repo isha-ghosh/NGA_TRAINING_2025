@@ -1,0 +1,7 @@
+E:\wipro\Attributes\Attributes\bin\Debug\Attributes.exe.config
+E:\wipro\Attributes\Attributes\bin\Debug\Attributes.exe
+E:\wipro\Attributes\Attributes\bin\Debug\Attributes.pdb
+E:\wipro\Attributes\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+E:\wipro\Attributes\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+E:\wipro\Attributes\Attributes\obj\Debug\Attributes.exe
+E:\wipro\Attributes\Attributes\obj\Debug\Attributes.pdb

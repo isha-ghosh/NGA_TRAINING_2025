@@ -1,0 +1,14 @@
+E:\wipro\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+E:\wipro\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+E:\wipro\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+E:\wipro\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+E:\wipro\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+E:\wipro\DesignPattern\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll

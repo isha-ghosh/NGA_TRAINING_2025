@@ -1,0 +1,14 @@
+E:\wipro\enum\enum\bin\Debug\net8.0\enum.exe
+E:\wipro\enum\enum\bin\Debug\net8.0\enum.deps.json
+E:\wipro\enum\enum\bin\Debug\net8.0\enum.runtimeconfig.json
+E:\wipro\enum\enum\bin\Debug\net8.0\enum.dll
+E:\wipro\enum\enum\bin\Debug\net8.0\enum.pdb
+E:\wipro\enum\enum\obj\Debug\net8.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\wipro\enum\enum\obj\Debug\net8.0\enum.AssemblyInfoInputs.cache
+E:\wipro\enum\enum\obj\Debug\net8.0\enum.AssemblyInfo.cs
+E:\wipro\enum\enum\obj\Debug\net8.0\enum.csproj.CoreCompileInputs.cache
+E:\wipro\enum\enum\obj\Debug\net8.0\enum.dll
+E:\wipro\enum\enum\obj\Debug\net8.0\refint\enum.dll
+E:\wipro\enum\enum\obj\Debug\net8.0\enum.pdb
+E:\wipro\enum\enum\obj\Debug\net8.0\enum.genruntimeconfig.cache
+E:\wipro\enum\enum\obj\Debug\net8.0\ref\enum.dll

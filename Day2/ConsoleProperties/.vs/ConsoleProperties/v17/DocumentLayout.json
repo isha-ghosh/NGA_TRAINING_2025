@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ISHA\\source\\repos\\ConsoleProperties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF9F3BB-6826-4D4E-AF0C-CDBB9E36F267}|ConsoleProperties\\ConsoleProperties.csproj|c:\\users\\isha\\source\\repos\\consoleproperties\\consoleproperties\\swithcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF9F3BB-6826-4D4E-AF0C-CDBB9E36F267}|ConsoleProperties\\ConsoleProperties.csproj|solutionrelative:consoleproperties\\swithcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF9F3BB-6826-4D4E-AF0C-CDBB9E36F267}|ConsoleProperties\\ConsoleProperties.csproj|c:\\users\\isha\\source\\repos\\consoleproperties\\consoleproperties\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF9F3BB-6826-4D4E-AF0C-CDBB9E36F267}|ConsoleProperties\\ConsoleProperties.csproj|solutionrelative:consoleproperties\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF9F3BB-6826-4D4E-AF0C-CDBB9E36F267}|ConsoleProperties\\ConsoleProperties.csproj|c:\\users\\isha\\source\\repos\\consoleproperties\\consoleproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF9F3BB-6826-4D4E-AF0C-CDBB9E36F267}|ConsoleProperties\\ConsoleProperties.csproj|solutionrelative:consoleproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loops.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\source\\repos\\ConsoleProperties\\ConsoleProperties\\loops.cs",
+              "RelativeDocumentMoniker": "ConsoleProperties\\loops.cs",
+              "ToolTip": "C:\\Users\\ISHA\\source\\repos\\ConsoleProperties\\ConsoleProperties\\loops.cs",
+              "RelativeToolTip": "ConsoleProperties\\loops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:29:51.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Swithcase.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\source\\repos\\ConsoleProperties\\ConsoleProperties\\Swithcase.cs",
+              "RelativeDocumentMoniker": "ConsoleProperties\\Swithcase.cs",
+              "ToolTip": "C:\\Users\\ISHA\\source\\repos\\ConsoleProperties\\ConsoleProperties\\Swithcase.cs",
+              "RelativeToolTip": "ConsoleProperties\\Swithcase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:07:18.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\source\\repos\\ConsoleProperties\\ConsoleProperties\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleProperties\\Program.cs",
+              "ToolTip": "C:\\Users\\ISHA\\source\\repos\\ConsoleProperties\\ConsoleProperties\\Program.cs",
+              "RelativeToolTip": "ConsoleProperties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:37:10.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

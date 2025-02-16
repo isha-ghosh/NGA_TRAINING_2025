@@ -1,0 +1,6 @@
+E:\wipro\CustomMathOperation\CustomMathOperation\bin\Debug\CustomMathOperation.dll
+E:\wipro\CustomMathOperation\CustomMathOperation\bin\Debug\CustomMathOperation.pdb
+E:\wipro\CustomMathOperation\CustomMathOperation\obj\Debug\CustomMathOperation.csproj.AssemblyReference.cache
+E:\wipro\CustomMathOperation\CustomMathOperation\obj\Debug\CustomMathOperation.csproj.CoreCompileInputs.cache
+E:\wipro\CustomMathOperation\CustomMathOperation\obj\Debug\CustomMathOperation.dll
+E:\wipro\CustomMathOperation\CustomMathOperation\obj\Debug\CustomMathOperation.pdb

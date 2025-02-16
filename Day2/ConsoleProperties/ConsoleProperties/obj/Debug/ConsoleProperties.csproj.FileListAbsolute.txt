@@ -1,0 +1,11 @@
+C:\Users\ISHA\source\repos\ConsoleProperties\ConsoleProperties\bin\Debug\ConsoleProperties.exe.config
+C:\Users\ISHA\source\repos\ConsoleProperties\ConsoleProperties\bin\Debug\ConsoleProperties.exe
+C:\Users\ISHA\source\repos\ConsoleProperties\ConsoleProperties\bin\Debug\ConsoleProperties.pdb
+C:\Users\ISHA\source\repos\ConsoleProperties\ConsoleProperties\obj\Debug\ConsoleProperties.csproj.AssemblyReference.cache
+C:\Users\ISHA\source\repos\ConsoleProperties\ConsoleProperties\obj\Debug\ConsoleProperties.csproj.CoreCompileInputs.cache
+C:\Users\ISHA\source\repos\ConsoleProperties\ConsoleProperties\obj\Debug\ConsoleProperties.exe
+C:\Users\ISHA\source\repos\ConsoleProperties\ConsoleProperties\obj\Debug\ConsoleProperties.pdb
+E:\repos\ConsoleProperties\ConsoleProperties\obj\Debug\ConsoleProperties.csproj.AssemblyReference.cache
+E:\repos\ConsoleProperties\ConsoleProperties\obj\Debug\ConsoleProperties.csproj.CoreCompileInputs.cache
+E:\repos\ConsoleProperties\ConsoleProperties\obj\Debug\ConsoleProperties.exe
+E:\repos\ConsoleProperties\ConsoleProperties\obj\Debug\ConsoleProperties.pdb

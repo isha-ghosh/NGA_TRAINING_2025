@@ -1,0 +1,7 @@
+E:\wipro\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+E:\wipro\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+E:\wipro\Collections\Collections\bin\Debug\Collections.exe.config
+E:\wipro\Collections\Collections\bin\Debug\Collections.exe
+E:\wipro\Collections\Collections\bin\Debug\Collections.pdb
+E:\wipro\Collections\Collections\obj\Debug\Collections.exe
+E:\wipro\Collections\Collections\obj\Debug\Collections.pdb

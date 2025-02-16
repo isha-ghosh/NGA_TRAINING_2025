@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\wipro\\DAY7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|e:\\wipro\\day7\\day7\\localfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\localfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|e:\\wipro\\day7\\day7\\inheritanceeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\inheritanceeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|E:\\wipro\\DAY7\\day7\\patttern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\patttern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|E:\\wipro\\DAY7\\day7\\patterbmatching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\patterbmatching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|E:\\wipro\\DAY7\\day7\\indexexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\indexexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|E:\\wipro\\DAY7\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|E:\\wipro\\DAY7\\day7\\newservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\newservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|E:\\wipro\\DAY7\\day7\\stringcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\stringcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|E:\\wipro\\DAY7\\day7\\oldservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CF1486-03AD-4D03-AF15-98149435F853}|DAY7\\DAY7.csproj|solutionrelative:day7\\oldservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inheritanceeg.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\inheritanceeg.cs",
+              "RelativeDocumentMoniker": "DAY7\\inheritanceeg.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\inheritanceeg.cs",
+              "RelativeToolTip": "DAY7\\inheritanceeg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:11:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalFunctions.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\LocalFunctions.cs",
+              "RelativeDocumentMoniker": "DAY7\\LocalFunctions.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\LocalFunctions.cs",
+              "RelativeToolTip": "DAY7\\LocalFunctions.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA3wFYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:16:35.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patttern.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\Patttern.cs",
+              "RelativeDocumentMoniker": "DAY7\\Patttern.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\Patttern.cs",
+              "RelativeToolTip": "DAY7\\Patttern.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:33:52.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexExamples.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\IndexExamples.cs",
+              "RelativeDocumentMoniker": "DAY7\\IndexExamples.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\IndexExamples.cs",
+              "RelativeToolTip": "DAY7\\IndexExamples.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:00:04.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatterbMatching.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\PatterbMatching.cs",
+              "RelativeDocumentMoniker": "DAY7\\PatterbMatching.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\PatterbMatching.cs",
+              "RelativeToolTip": "DAY7\\PatterbMatching.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:50:59.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringCount.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\StringCount.cs",
+              "RelativeDocumentMoniker": "DAY7\\StringCount.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\StringCount.cs",
+              "RelativeToolTip": "DAY7\\StringCount.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:55:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OldService.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\OldService.cs",
+              "RelativeDocumentMoniker": "DAY7\\OldService.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\OldService.cs",
+              "RelativeToolTip": "DAY7\\OldService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:01:24.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewService.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\NewService.cs",
+              "RelativeDocumentMoniker": "DAY7\\NewService.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\NewService.cs",
+              "RelativeToolTip": "DAY7\\NewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:01:12.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\wipro\\DAY7\\DAY7\\Program.cs",
+              "RelativeDocumentMoniker": "DAY7\\Program.cs",
+              "ToolTip": "E:\\wipro\\DAY7\\DAY7\\Program.cs",
+              "RelativeToolTip": "DAY7\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:53:23.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

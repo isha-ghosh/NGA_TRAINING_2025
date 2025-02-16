@@ -1,0 +1,7 @@
+E:\wipro\Strings\Strings\bin\Debug\Strings.exe.config
+E:\wipro\Strings\Strings\bin\Debug\Strings.exe
+E:\wipro\Strings\Strings\bin\Debug\Strings.pdb
+E:\wipro\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+E:\wipro\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+E:\wipro\Strings\Strings\obj\Debug\Strings.exe
+E:\wipro\Strings\Strings\obj\Debug\Strings.pdb

@@ -1,0 +1,6 @@
+E:\wipro\Day8\Assignment1\CalculatorOperations\CalculatorOperations\bin\Debug\CalculatorOperations.dll
+E:\wipro\Day8\Assignment1\CalculatorOperations\CalculatorOperations\bin\Debug\CalculatorOperations.pdb
+E:\wipro\Day8\Assignment1\CalculatorOperations\CalculatorOperations\obj\Debug\CalculatorOperations.csproj.AssemblyReference.cache
+E:\wipro\Day8\Assignment1\CalculatorOperations\CalculatorOperations\obj\Debug\CalculatorOperations.csproj.CoreCompileInputs.cache
+E:\wipro\Day8\Assignment1\CalculatorOperations\CalculatorOperations\obj\Debug\CalculatorOperations.dll
+E:\wipro\Day8\Assignment1\CalculatorOperations\CalculatorOperations\obj\Debug\CalculatorOperations.pdb

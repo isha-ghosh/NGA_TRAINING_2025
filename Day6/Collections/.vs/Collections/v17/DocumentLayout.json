@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\wipro\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{610CD4CA-EE4A-4420-B1AA-2A74FF27C34E}|InterfaceAbstracr\\InterfaceAbstracr.csproj|e:\\wipro\\collections\\interfaceabstracr\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610CD4CA-EE4A-4420-B1AA-2A74FF27C34E}|InterfaceAbstracr\\InterfaceAbstracr.csproj|solutionrelative:interfaceabstracr\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610CD4CA-EE4A-4420-B1AA-2A74FF27C34E}|InterfaceAbstracr\\InterfaceAbstracr.csproj|e:\\wipro\\collections\\interfaceabstracr\\peramnent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610CD4CA-EE4A-4420-B1AA-2A74FF27C34E}|InterfaceAbstracr\\InterfaceAbstracr.csproj|solutionrelative:interfaceabstracr\\peramnent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610CD4CA-EE4A-4420-B1AA-2A74FF27C34E}|InterfaceAbstracr\\InterfaceAbstracr.csproj|e:\\wipro\\collections\\interfaceabstracr\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610CD4CA-EE4A-4420-B1AA-2A74FF27C34E}|InterfaceAbstracr\\InterfaceAbstracr.csproj|solutionrelative:interfaceabstracr\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610CD4CA-EE4A-4420-B1AA-2A74FF27C34E}|InterfaceAbstracr\\InterfaceAbstracr.csproj|e:\\wipro\\collections\\interfaceabstracr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610CD4CA-EE4A-4420-B1AA-2A74FF27C34E}|InterfaceAbstracr\\InterfaceAbstracr.csproj|solutionrelative:interfaceabstracr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA862B4-1BA4-4CED-9054-9832AFB45190}|..\\Interface\\Interface.csproj|e:\\wipro\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA862B4-1BA4-4CED-9054-9832AFB45190}|..\\Interface\\Interface.csproj|e:\\wipro\\interface\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "E:\\wipro\\Collections\\InterfaceAbstracr\\Inheritance.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstracr\\Inheritance.cs",
+              "ToolTip": "E:\\wipro\\Collections\\InterfaceAbstracr\\Inheritance.cs",
+              "RelativeToolTip": "InterfaceAbstracr\\Inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:40:36.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peramnent.cs",
+              "DocumentMoniker": "E:\\wipro\\Collections\\InterfaceAbstracr\\Peramnent.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstracr\\Peramnent.cs",
+              "ToolTip": "E:\\wipro\\Collections\\InterfaceAbstracr\\Peramnent.cs",
+              "RelativeToolTip": "InterfaceAbstracr\\Peramnent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:40:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "E:\\wipro\\Collections\\InterfaceAbstracr\\Contract.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstracr\\Contract.cs",
+              "ToolTip": "E:\\wipro\\Collections\\InterfaceAbstracr\\Contract.cs",
+              "RelativeToolTip": "InterfaceAbstracr\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:40:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\wipro\\Collections\\InterfaceAbstracr\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstracr\\Program.cs",
+              "ToolTip": "E:\\wipro\\Collections\\InterfaceAbstracr\\Program.cs",
+              "RelativeToolTip": "InterfaceAbstracr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:39:52.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\wipro\\Interface\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\Employee.cs",
+              "ToolTip": "E:\\wipro\\Interface\\Employee.cs",
+              "RelativeToolTip": "..\\Interface\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:11:01.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\wipro\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Interface\\Program.cs",
+              "ToolTip": "E:\\wipro\\Interface\\Program.cs",
+              "RelativeToolTip": "..\\Interface\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:35:18.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

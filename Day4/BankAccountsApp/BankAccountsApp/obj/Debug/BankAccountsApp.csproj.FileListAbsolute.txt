@@ -1,0 +1,10 @@
+E:\wipro\BankAccountsApp\BankAccountsApp\bin\Debug\BankAccountsApp.exe.config
+E:\wipro\BankAccountsApp\BankAccountsApp\bin\Debug\BankAccountsApp.exe
+E:\wipro\BankAccountsApp\BankAccountsApp\bin\Debug\BankAccountsApp.pdb
+E:\wipro\BankAccountsApp\BankAccountsApp\obj\Debug\BankAccountsApp.csproj.AssemblyReference.cache
+E:\wipro\BankAccountsApp\BankAccountsApp\obj\Debug\BankAccountsApp.Form1.resources
+E:\wipro\BankAccountsApp\BankAccountsApp\obj\Debug\BankAccountsApp.Properties.Resources.resources
+E:\wipro\BankAccountsApp\BankAccountsApp\obj\Debug\BankAccountsApp.csproj.GenerateResource.cache
+E:\wipro\BankAccountsApp\BankAccountsApp\obj\Debug\BankAccountsApp.csproj.CoreCompileInputs.cache
+E:\wipro\BankAccountsApp\BankAccountsApp\obj\Debug\BankAccountsApp.exe
+E:\wipro\BankAccountsApp\BankAccountsApp\obj\Debug\BankAccountsApp.pdb

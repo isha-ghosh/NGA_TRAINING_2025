@@ -1,0 +1,7 @@
+C:\Users\ISHA\source\repos\ConsoleApp1\DataType\obj\Debug\DataType.csproj.AssemblyReference.cache
+C:\Users\ISHA\source\repos\ConsoleApp1\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\ISHA\source\repos\ConsoleApp1\DataType\bin\Debug\DataType.exe.config
+C:\Users\ISHA\source\repos\ConsoleApp1\DataType\bin\Debug\DataType.exe
+C:\Users\ISHA\source\repos\ConsoleApp1\DataType\bin\Debug\DataType.pdb
+C:\Users\ISHA\source\repos\ConsoleApp1\DataType\obj\Debug\DataType.exe
+C:\Users\ISHA\source\repos\ConsoleApp1\DataType\obj\Debug\DataType.pdb

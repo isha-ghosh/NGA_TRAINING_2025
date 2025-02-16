@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\wipro\\LoginSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B319741D-212D-4A39-AC63-F172CAA79ACD}|NLoginTest\\NLoginTest.csproj|e:\\wipro\\loginsolution\\nlogintest\\logintesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B319741D-212D-4A39-AC63-F172CAA79ACD}|NLoginTest\\NLoginTest.csproj|solutionrelative:nlogintest\\logintesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1299E223-7D7E-4421-BC18-74F062A6A193}|LoginSolution\\LoginSolution.csproj|e:\\wipro\\loginsolution\\loginsolution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1299E223-7D7E-4421-BC18-74F062A6A193}|LoginSolution\\LoginSolution.csproj|solutionrelative:loginsolution\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTesting.cs",
+              "DocumentMoniker": "E:\\wipro\\LoginSolution\\NLoginTest\\LoginTesting.cs",
+              "RelativeDocumentMoniker": "NLoginTest\\LoginTesting.cs",
+              "ToolTip": "E:\\wipro\\LoginSolution\\NLoginTest\\LoginTesting.cs",
+              "RelativeToolTip": "NLoginTest\\LoginTesting.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:05:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\wipro\\LoginSolution\\LoginSolution\\Login.cs",
+              "RelativeDocumentMoniker": "LoginSolution\\Login.cs",
+              "ToolTip": "E:\\wipro\\LoginSolution\\LoginSolution\\Login.cs",
+              "RelativeToolTip": "LoginSolution\\Login.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:04:26.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

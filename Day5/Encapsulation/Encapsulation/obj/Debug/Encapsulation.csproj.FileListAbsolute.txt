@@ -1,0 +1,7 @@
+E:\wipro\day 4\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+E:\wipro\day 4\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+E:\wipro\day 4\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+E:\wipro\day 4\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+E:\wipro\day 4\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+E:\wipro\day 4\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+E:\wipro\day 4\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
