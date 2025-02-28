@@ -1,0 +1,6 @@
+E:\wipro\LoginSolution\LoginSolution\bin\Debug\LoginSolution.dll
+E:\wipro\LoginSolution\LoginSolution\bin\Debug\LoginSolution.pdb
+E:\wipro\LoginSolution\LoginSolution\obj\Debug\LoginSolution.csproj.AssemblyReference.cache
+E:\wipro\LoginSolution\LoginSolution\obj\Debug\LoginSolution.csproj.CoreCompileInputs.cache
+E:\wipro\LoginSolution\LoginSolution\obj\Debug\LoginSolution.dll
+E:\wipro\LoginSolution\LoginSolution\obj\Debug\LoginSolution.pdb

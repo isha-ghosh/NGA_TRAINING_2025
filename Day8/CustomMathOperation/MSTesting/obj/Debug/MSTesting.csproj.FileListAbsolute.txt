@@ -1,0 +1,17 @@
+E:\wipro\CustomMathOperation\MSTesting\obj\Debug\MSTesting.csproj.AssemblyReference.cache
+E:\wipro\CustomMathOperation\MSTesting\obj\Debug\MSTesting.csproj.CoreCompileInputs.cache
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\MSTesting.dll
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\MSTesting.pdb
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\CustomMathOperation.dll
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\CustomMathOperation.pdb
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\wipro\CustomMathOperation\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\wipro\CustomMathOperation\MSTesting\obj\Debug\MSTesting.csproj.Up2Date
+E:\wipro\CustomMathOperation\MSTesting\obj\Debug\MSTesting.dll
+E:\wipro\CustomMathOperation\MSTesting\obj\Debug\MSTesting.pdb

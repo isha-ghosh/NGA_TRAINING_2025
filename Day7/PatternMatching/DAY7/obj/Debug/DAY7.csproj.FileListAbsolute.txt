@@ -1,0 +1,7 @@
+E:\wipro\DAY7\DAY7\obj\Debug\DAY7.csproj.AssemblyReference.cache
+E:\wipro\DAY7\DAY7\obj\Debug\DAY7.csproj.CoreCompileInputs.cache
+E:\wipro\DAY7\DAY7\bin\Debug\DAY7.exe.config
+E:\wipro\DAY7\DAY7\bin\Debug\DAY7.exe
+E:\wipro\DAY7\DAY7\bin\Debug\DAY7.pdb
+E:\wipro\DAY7\DAY7\obj\Debug\DAY7.exe
+E:\wipro\DAY7\DAY7\obj\Debug\DAY7.pdb

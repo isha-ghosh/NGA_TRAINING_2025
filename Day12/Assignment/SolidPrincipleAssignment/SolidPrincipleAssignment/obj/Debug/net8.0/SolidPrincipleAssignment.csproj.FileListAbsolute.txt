@@ -1,0 +1,14 @@
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\bin\Debug\net8.0\SolidPrincipleAssignment.exe
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\bin\Debug\net8.0\SolidPrincipleAssignment.deps.json
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\bin\Debug\net8.0\SolidPrincipleAssignment.runtimeconfig.json
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\bin\Debug\net8.0\SolidPrincipleAssignment.dll
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\bin\Debug\net8.0\SolidPrincipleAssignment.pdb
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\SolidPrincipleAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\SolidPrincipleAssignment.AssemblyInfoInputs.cache
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\SolidPrincipleAssignment.AssemblyInfo.cs
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\SolidPrincipleAssignment.csproj.CoreCompileInputs.cache
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\SolidPrincipleAssignment.dll
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\refint\SolidPrincipleAssignment.dll
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\SolidPrincipleAssignment.pdb
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\SolidPrincipleAssignment.genruntimeconfig.cache
+E:\wipro\Day12\Assignment\SolidPrincipleAssignment\SolidPrincipleAssignment\obj\Debug\net8.0\ref\SolidPrincipleAssignment.dll

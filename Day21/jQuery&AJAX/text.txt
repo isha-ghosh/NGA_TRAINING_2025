@@ -1,0 +1,19 @@
+jQuery--------->is a lightweight and very popular JS library just to simplify the javascript code.
+
+const elem=document.getElementById("btn);
+elem.addEventListener("Click",function(){
+    document.getElementById("output").innerHTML="Hello all";
+});
+
+$("#btn").Click(function(){
+    $("output").html("Hello all");
+    })
+
+
+
+$---->a sign for accessing jQuery
+selector-->the element
+action--->what action do you want to perform  $("p").hide()
+
+AJAX-->Asynchronous Javascript and XML
+Its important for loading data from API/Server without reloading the full page.

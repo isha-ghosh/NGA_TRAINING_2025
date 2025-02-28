@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B1167-61D9-44CB-9702-080D409BB700}|LibraryTests.cs\\LibraryTests.cs.csproj|c:\\users\\isha\\desktop\\day8assignment2\\day8assignment2\\librarytests.cs\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7B1167-61D9-44CB-9702-080D409BB700}|LibraryTests.cs\\LibraryTests.cs.csproj|solutionrelative:librarytests.cs\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED74BC4-A598-4153-B15E-10C284D781C0}|BookClass\\BookClass.csproj|C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\bookclass\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED74BC4-A598-4153-B15E-10C284D781C0}|BookClass\\BookClass.csproj|solutionrelative:bookclass\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED74BC4-A598-4153-B15E-10C284D781C0}|BookClass\\BookClass.csproj|C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\bookclass\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED74BC4-A598-4153-B15E-10C284D781C0}|BookClass\\BookClass.csproj|solutionrelative:bookclass\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED74BC4-A598-4153-B15E-10C284D781C0}|BookClass\\BookClass.csproj|C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\bookclass\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED74BC4-A598-4153-B15E-10C284D781C0}|BookClass\\BookClass.csproj|solutionrelative:bookclass\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Testing.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\LibraryTests.cs\\Testing.cs",
+              "RelativeDocumentMoniker": "LibraryTests.cs\\Testing.cs",
+              "ToolTip": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\LibraryTests.cs\\Testing.cs",
+              "RelativeToolTip": "LibraryTests.cs\\Testing.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:31:21.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\BookClass\\Library.cs",
+              "RelativeDocumentMoniker": "BookClass\\Library.cs",
+              "ToolTip": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\BookClass\\Library.cs",
+              "RelativeToolTip": "BookClass\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:29:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\BookClass\\Borrower.cs",
+              "RelativeDocumentMoniker": "BookClass\\Borrower.cs",
+              "ToolTip": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\BookClass\\Borrower.cs",
+              "RelativeToolTip": "BookClass\\Borrower.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:27:17.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\BookClass\\Book.cs",
+              "RelativeDocumentMoniker": "BookClass\\Book.cs",
+              "ToolTip": "C:\\Users\\ISHA\\Desktop\\day8assignment2\\day8assignment2\\BookClass\\Book.cs",
+              "RelativeToolTip": "BookClass\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:14:10.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

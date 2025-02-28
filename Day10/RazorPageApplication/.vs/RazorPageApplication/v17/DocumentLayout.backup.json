@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\wipro\\RazorPageApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|e:\\wipro\\razorpageapplication\\razorpageapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|solutionrelative:razorpageapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|e:\\wipro\\razorpageapplication\\razorpageapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|solutionrelative:razorpageapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|e:\\wipro\\razorpageapplication\\razorpageapplication\\pages\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|solutionrelative:razorpageapplication\\pages\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|e:\\wipro\\razorpageapplication\\razorpageapplication\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|solutionrelative:razorpageapplication\\pages\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|e:\\wipro\\razorpageapplication\\razorpageapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|solutionrelative:razorpageapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|e:\\wipro\\razorpageapplication\\razorpageapplication\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46DD8FAE-33BD-4D8B-8208-BC25CB0E4108}|RazorPageApplication\\RazorPageApplication.csproj|solutionrelative:razorpageapplication\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPageApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPageApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:53:11.78Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageApplication\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPageApplication\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:00:19.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPageApplication\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPageApplication\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T17:00:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\Services.cshtml",
+              "RelativeDocumentMoniker": "RazorPageApplication\\Pages\\Services.cshtml",
+              "ToolTip": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\Services.cshtml",
+              "RelativeToolTip": "RazorPageApplication\\Pages\\Services.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:59:04.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "RazorPageApplication\\Pages\\ContactUs.cshtml",
+              "ToolTip": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\ContactUs.cshtml",
+              "RelativeToolTip": "RazorPageApplication\\Pages\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:58:41.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "RazorPageApplication\\Pages\\AboutUs.cshtml",
+              "ToolTip": "E:\\wipro\\RazorPageApplication\\RazorPageApplication\\Pages\\AboutUs.cshtml",
+              "RelativeToolTip": "RazorPageApplication\\Pages\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:58:19.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\wipro\Interface\bin\Debug\Interface.exe.config
+E:\wipro\Interface\bin\Debug\Interface.exe
+E:\wipro\Interface\bin\Debug\Interface.pdb
+E:\wipro\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+E:\wipro\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+E:\wipro\Interface\obj\Debug\Interface.exe
+E:\wipro\Interface\obj\Debug\Interface.pdb

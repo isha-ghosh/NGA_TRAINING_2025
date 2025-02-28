@@ -1,0 +1,4 @@
+2025-02-07 00:22:14.0043|INFO|LoggingExample.AuthenticationService|Login attempt has made : isha
+2025-02-07 00:22:14.0217|INFO|LoggingExample.AuthenticationService|Login successful for user: isha
+2025-02-07 00:22:14.0279|INFO|LoggingExample.AuthenticationService|Login attempt has made : nisha
+2025-02-07 00:22:14.0279|WARN|LoggingExample.AuthenticationService|Login failed! Incorrect password for user: nisha

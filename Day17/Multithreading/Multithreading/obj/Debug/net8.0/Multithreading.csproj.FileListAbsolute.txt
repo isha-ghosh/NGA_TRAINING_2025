@@ -1,0 +1,14 @@
+E:\wipro\Day17\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.exe
+E:\wipro\Day17\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.deps.json
+E:\wipro\Day17\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.runtimeconfig.json
+E:\wipro\Day17\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.dll
+E:\wipro\Day17\Multithreading\Multithreading\bin\Debug\net8.0\Multithreading.pdb
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfoInputs.cache
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.AssemblyInfo.cs
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.csproj.CoreCompileInputs.cache
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.dll
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\refint\Multithreading.dll
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.pdb
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\Multithreading.genruntimeconfig.cache
+E:\wipro\Day17\Multithreading\Multithreading\obj\Debug\net8.0\ref\Multithreading.dll

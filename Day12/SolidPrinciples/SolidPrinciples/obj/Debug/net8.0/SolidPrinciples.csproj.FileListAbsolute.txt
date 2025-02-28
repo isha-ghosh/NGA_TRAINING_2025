@@ -1,0 +1,14 @@
+E:\wipro\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.exe
+E:\wipro\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.deps.json
+E:\wipro\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.runtimeconfig.json
+E:\wipro\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.dll
+E:\wipro\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.pdb
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.AssemblyInfoInputs.cache
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.AssemblyInfo.cs
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.dll
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\refint\SolidPrinciples.dll
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.pdb
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.genruntimeconfig.cache
+E:\wipro\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\ref\SolidPrinciples.dll
